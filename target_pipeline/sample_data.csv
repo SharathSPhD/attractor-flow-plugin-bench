@@ -1,0 +1,14 @@
+key,value,category
+temperature_sensor_1,23.5,metrics
+status_label,operational,labels
+request_count,1024,counts
+error_description,Connection timeout after 30s,descriptions
+cpu_score,87.3,scores
+user_tag,premium,tags
+memory_measurement,4096,measurements
+note_field,System initialized at startup,notes
+mixed_field,42,mixed
+unknown_field,some_data,unknown
+temperature_sensor_2,24.1,metrics
+status_label_2,degraded,labels
+request_count_2,512,counts

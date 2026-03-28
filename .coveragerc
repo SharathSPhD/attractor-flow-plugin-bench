@@ -1,0 +1,12 @@
+[run]
+source = target_pipeline
+omit =
+    target_pipeline/tests/*
+    target_pipeline/__init__.py
+
+[report]
+show_missing = True
+skip_empty = True
+
+[json]
+output = coverage.json
