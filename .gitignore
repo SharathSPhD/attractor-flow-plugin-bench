@@ -25,6 +25,13 @@ coverage.json
 .remember/
 docs/
 
-# Generated run state (committed separately as run_log_attractor.json)
+# Generated run state
 evolve_sys/run_log.json
 evolve_sys/milestones.jsonl
+
+# Claude Code internals
+.claude/
+CLAUDE.md
+
+# Build scripts (not part of published benchmark)
+scripts/
